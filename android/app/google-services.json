@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808421240457",
+    "project_id": "loginauthentication-fefd0",
+    "storage_bucket": "loginauthentication-fefd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808421240457:android:44f1b42357e6351b92a058",
+        "android_client_info": {
+          "package_name": "com.example.login_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808421240457-gfo6qfc8a8obq7i7lu18hdsip3b5o2jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEXUz_vB3E9sm5Rdf-K8hCjkMj4Up6hAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808421240457-gfo6qfc8a8obq7i7lu18hdsip3b5o2jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
